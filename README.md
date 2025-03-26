@@ -122,10 +122,10 @@ void IRPAIR()
 
 ## OUTPUT
 
-LED OFF:
+DETECTION OFF:
 ![ledoff2](https://github.com/user-attachments/assets/cbc50a95-64cc-4273-9369-f76c78fc190b)
 
-LED ON:
+DETECTION ON:
 ![ledon2](https://github.com/user-attachments/assets/cd2869f6-c395-4741-97da-78c0689c824d)
 
 ## Result
